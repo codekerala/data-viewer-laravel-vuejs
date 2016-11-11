@@ -33,7 +33,7 @@ trait DataViewer {
         ]);
 
         if($v->fails()) {
-            dd($v->messages());
+            throw new \Illuminate\Validation\ValidationException($v);
         }
 
         return $query
