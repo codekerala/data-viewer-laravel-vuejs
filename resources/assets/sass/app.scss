@@ -1,0 +1,102 @@
+// Variables
+@import "variables";
+
+// Bootstrap
+@import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+
+html {
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+    padding: 15px;
+}
+
+.dv {
+    height: 100%;
+    background: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.dv-header {
+    padding: 10px 15px;
+    display: flex;
+    justify-content: space-between;
+    background: #fff;
+    border-bottom: 1px solid #eee;
+    &-title {
+        flex: 2;
+        padding-right: 15px;
+    }
+    &-select {
+        display: block;
+        width: 100%;
+    }
+    &-columns {
+        flex: 2;
+        display: flex;
+        justify-content: space-between;
+        padding-right: 15px;
+    }
+    &-operators {
+        flex: 2;
+        display: flex;
+        justify-content: space-between;
+        padding-right: 15px;
+    }
+    &-search {
+        flex: 4;
+        padding-right: 15px;
+    }
+    &-input {
+        display: block;
+        width: 100%;
+    }
+    &-submit {
+        flex: 1;
+    }
+    &-btn {
+        display: block;
+        width: 100%;
+    }
+}
+
+.dv-body {
+    flex: 1;
+    overflow: scroll;
+}
+.dv-table {
+    width: 100%;
+    thead {
+        th {
+            padding: 5px 10px;
+        }
+    }
+    tbody {
+        td {
+            padding: 5px 10px;
+        }
+    }
+}
+
+.dv-footer {
+    padding: 10px 15px;
+    display: flex;
+    justify-content: space-between;
+    &-input {
+        width: 40px;
+    }
+}
+
+.dv-footer-item {
+    display: flex;
+    justify-content: space-between;
+}
+.dv-footer-sub {
+    padding-left: 15px;
+}
