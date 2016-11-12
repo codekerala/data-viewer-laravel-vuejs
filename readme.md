@@ -7,7 +7,7 @@
 - Advance filter
 
 
-![alt tag](https://github.com/codekerala/data-viewer-laravel-vuejs/raw/master/img-1.png)
+![alt tag](https://github.com/codekerala/data-viewer-laravel-vuejs/raw/master/img-2.png)
 
 ### Installation
 `git clone https://github.com/codekerala/data-viewer-laravel-vuejs.git`
