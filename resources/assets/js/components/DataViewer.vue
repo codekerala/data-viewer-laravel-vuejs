@@ -5,7 +5,7 @@
         {{title}}
       </div>
       <div class="dv-header-columns">
-        <span>Search: </span>
+        <span class="dv-header-pre">Search: </span>
         <select class="dv-header-select" v-model="query.search_column">
           <option v-for="column in columns" :value="column">{{column}}</option>
         </select>
@@ -82,7 +82,7 @@
           page: 1,
           column: 'id',
           direction: 'desc',
-          per_page: 10,
+          per_page: 15,
           search_column: 'id',
           search_operator: 'equal',
           search_input: ''
