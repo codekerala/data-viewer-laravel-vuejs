@@ -20,14 +20,12 @@
 
 Find the link for paid full source code from codecanyon.
 
-[Apex Demo](https://apex.codekerala.com)
+Find the link for paid full source code from codecanyon.
 
-[Buy Apex Now](https://codecanyon.net/item/apex-sales-purchase-and-invoicing-solution/20752147)
+[Flow Demo](https://flow.codekerala.com)
 
+[Buy Flow Now](https://codecanyon.net/item/flow-simple-crm-for-freelancers-and-small-businesses/22641018)
 
-[Lumen Demo](http://lumen.codekerala.com)
-
-[Buy Lumen](https://codecanyon.net/item/lumen-a-simple-invoicing-solution/21831047)
 
 ### On Youtube
 
